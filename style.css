@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.6;
+  background-color: #f9f9f9;
+}
+
+.container {
+  width: 90%;
+  max-width: 1100px;
+  margin: auto;
+  text-align: center;
+}
+
+.header {
+  background: url("/img/banner.jpg") center/cover no-repeat;
+  color: white;
+  padding: 80px 20px;
+}
+
+.btn {
+  display: inline-block;
+  background: #007bff;
+  color: white;
+  padding: 12px 24px;
+  margin-top: 15px;
+  text-decoration: none;
+  border-radius: 8px;
+}
